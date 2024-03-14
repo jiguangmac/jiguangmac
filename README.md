@@ -1,4 +1,4 @@
-### 小目标：dont stave snake
+### 小目标：dont stave the snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiguangmac/jiguangmac/output/github-contribution-grid-snake-dark.svg" />
